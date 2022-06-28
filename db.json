@@ -1,28 +1,33 @@
 {
-  "products": [
+  "instalacoes": [
     {
-      "name": "Ildeberto Silva",
-      "price": "10",
-      "supplier": "50",
-      "id": 1
-    },
-    {
-      "name": "999",
-      "price": 0,
-      "supplier": "9i093",
-      "id": 2
-    },
-    {
-      "name": "",
-      "price": 0,
-      "supplier": "",
+      "nomeInstalacao": "rqerqerq",
+      "nomeCliente": "eqerqerqe",
+      "emailEmpresa": "qerqerq",
+      "linkAcesso": "erqerq",
+      "idioma": "portugues",
+      "idioma2": "portugues",
+      "pais": "Portugal",
+      "podeRecuperarSenha": true,
+      "QtdEmpresas": 3,
       "id": 3
     },
     {
-      "name": "",
-      "price": 0,
-      "supplier": "",
+      "nomeInstalacao": "Nome da Instalação",
+      "nomeCliente": "Nome da Empresa",
+      "emailEmpresa": "ildeberto.vasconcelos@kiami.ao",
+      "linkAcesso": "demo.kiami.ao",
+      "idioma": "portugues",
+      "idioma2": "ingles",
+      "pais": "angola",
+      "podeRecuperarSenha": true,
+      "QtdEmpresas": 3,
+      "nomeBd": "DB",
+      "servidor": "SERVR1",
       "id": 4
+    },
+    {
+      "id": 5
     }
   ]
 }
